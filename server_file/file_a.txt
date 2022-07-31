@@ -1,0 +1,82 @@
+It is possible to configure sockets to use a non-blocking operation. One way
+to do this is by calling fcntl() with the O_NONBLOCK flag ( ioctlsocket() with
+the FIONBIO flag on Windows), although other ways also exist. Once in non-
+blocking mode, a call to recv() with no data will return immediately. See Chap
+ter 13 , Socket Programming Tips and Pitfalls, for more information.
+
+A program structured with this in mind could simply check each of its
+active sockets in turn, continuously. It would handle any socket that
+returned data and ignore any socket that didn't. This is called polling.
+Polling can be a waste of computer resources since most of the time, there
+
+It is possible to configure sockets to use a non-blocking operation. One way
+to do this is by calling fcntl() with the O_NONBLOCK flag ( ioctlsocket() with
+the FIONBIO flag on Windows), although other ways also exist. Once in non-
+blocking mode, a call to recv() with no data will return immediately. See Chap
+ter 13 , Socket Programming Tips and Pitfalls, for more information.
+
+A program structured with this in mind could simply check each of its
+active sockets in turn, continuously. It would handle any socket that
+returned data and ignore any socket that didn't. This is called polling.
+Polling can be a waste of computer resources since most of the time, there
+
+It is possible to configure sockets to use a non-blocking operation. One way
+to do this is by calling fcntl() with the O_NONBLOCK flag ( ioctlsocket() with
+the FIONBIO flag on Windows), although other ways also exist. Once in non-
+blocking mode, a call to recv() with no data will return immediately. See Chap
+ter 13 , Socket Programming Tips and Pitfalls, for more information.
+
+A program structured with this in mind could simply check each of its
+active sockets in turn, continuously. It would handle any socket that
+returned data and ignore any socket that didn't. This is called polling.
+Polling can be a waste of computer resources since most of the time, there
+
+It is possible to configure sockets to use a non-blocking operation. One way
+to do this is by calling fcntl() with the O_NONBLOCK flag ( ioctlsocket() with
+the FIONBIO flag on Windows), although other ways also exist. Once in non-
+blocking mode, a call to recv() with no data will return immediately. See Chap
+ter 13 , Socket Programming Tips and Pitfalls, for more information.
+
+A program structured with this in mind could simply check each of its
+active sockets in turn, continuously. It would handle any socket that
+returned data and ignore any socket that didn't. This is called polling.
+Polling can be a waste of computer resources since most of the time, there
+
+It is possible to configure sockets to use a non-blocking operation. One way
+to do this is by calling fcntl() with the O_NONBLOCK flag ( ioctlsocket() with
+the FIONBIO flag on Windows), although other ways also exist. Once in non-
+blocking mode, a call to recv() with no data will return immediately. See Chap
+ter 13 , Socket Programming Tips and Pitfalls, for more information.
+
+A program structured with this in mind could simply check each of its
+active sockets in turn, continuously. It would handle any socket that
+returned data and ignore any socket that didn't. This is called polling.
+Polling can be a waste of computer resources since most of the time, there
+
+It is possible to configure sockets to use a non-blocking operation. One way
+to do this is by calling fcntl() with the O_NONBLOCK flag ( ioctlsocket() with
+the FIONBIO flag on Windows), although other ways also exist. Once in non-
+blocking mode, a call to recv() with no data will return immediately. See Chap
+ter 13 , Socket Programming Tips and Pitfalls, for more information.
+
+A program structured with this in mind could simply check each of its
+active sockets in turn, continuously. It would handle any socket that
+returned data and ignore any socket that didn't. This is called polling.
+Polling can be a waste of computer resources since most of the time, there
+
+It is possible to configure sockets to use a non-blocking operation. One way
+to do this is by calling fcntl() with the O_NONBLOCK flag ( ioctlsocket() with
+the FIONBIO flag on Windows), although other ways also exist. Once in non-
+blocking mode, a call to recv() with no data will return immediately. See Chap
+ter 13 , Socket Programming Tips and Pitfalls, for more information.
+
+A program structured with this in mind could simply check each of its
+active sockets in turn, continuously. It would handle any socket that
+returned data and ignore any socket that didn't. This is called polling.
+Polling can be a waste of computer resources since most of the time, there
+
+It is possible to configure sockets to use a non-blocking operation. One way
+to do this is by calling fcntl() with the O_NONBLOCK flag ( ioctlsocket() with
+the FIONBIO flag on Windows), although other ways also exist. Once in non-
+phuong: dfgdg
+phuong: dfgdfg
